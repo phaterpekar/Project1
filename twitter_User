@@ -3,10 +3,10 @@ from tweepy import OAuthHandler
 from prettytable import PrettyTable
 import time
 
-consumer_key = "1edf1EkmplIy7bSUR5j6ODzGu"
-consumer_secret = "QDGNRSHkzES2Qrexpln5Uhj4viJ3UyJw9T0lmoC8UgG2zJaDJY"
-access_token = "3856128089-RgsqT2MPPeCtSaPKXMzJMX1Y603FpDipGSZhOGf"
-access_token_secret = "fdFDkN6fn68a7DUFYGB3auP8r3PVQPHAYrZiWdVYOmdwK"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
 
 if __name__ == '__main__':
     auth = OAuthHandler(consumer_key, consumer_secret)
