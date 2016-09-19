@@ -1,0 +1,25 @@
+
+	Friends - 302 
++--------------------+-----------------+
+|         id         |       name      |
++--------------------+-----------------+
+|     3118705906     |  joshgremillion |
+|     202814670      |  MAGA_dot_Media |
+|      28628850      |   greggutfeld   |
+|      16163639      |     NolteNC     |
+|     2465207048     |   BennettJonah  |
+|     2645181774     |      NYPDCT     |
+|     292777349      |       pzf       |
+|     3327736274     |  AngelTilaLove  |
+|     416016530      |     MikeMa_     |
+|     4510755552     |     _Makada_    |
+|     1067182676     |    T_hale1010   |
+|     282695161      | WayneDupreeShow |
+|      39334221      | pastormarkburns |
+|      48223726      |   TrumpChicago  |
+| 774742230691094528 | Deplorables4DJT |
+|      76543481      |     BorisEP     |
+|     4764686473     | KeithSchiller45 |
+|     273542042      | therealroseanne |
+|     3410972164     |   VanessaTreft  |
++--------------------+-----------------+
