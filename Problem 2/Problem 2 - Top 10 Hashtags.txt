@@ -1,0 +1,10 @@
+{ "_id" : "trump2016", "count" : 10840 }
+{ "_id" : "imwithher", "count" : 8207 }
+{ "_id" : "maga", "count" : 4483 }
+{ "_id" : "trumptrain", "count" : 4067 }
+{ "_id" : "emmys", "count" : 3554 }
+{ "_id" : "makeamericagreatagain", "count" : 3178 }
+{ "_id" : "trump", "count" : 2430 }
+{ "_id" : "hillary", "count" : 1835 }
+{ "_id" : "hillaryshealth", "count" : 1536 }
+{ "_id" : "election2016", "count" : 1506 }

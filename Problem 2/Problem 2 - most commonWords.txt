@@ -1,0 +1,29 @@
++------------------------+--------------+
+| Count                  | Common Words |
++------------------------+--------------+
+| Hillary                | 57807        |
+| Trump                  | 43726        |
+| Clinton                | 41201        |
+| Donald                 | 36614        |
+| 😂                      | 17782        |
+| Prison                 | 8546         |
+| #Trump2016             | 8160         |
+| Obama                  | 6966         |
+| #ImWithHer             | 6888         |
+| President              | 6774         |
+| @HillaryClinton        | 4995         |
+| Clinton's              | 4906         |
+| @realDonaldTrump       | 4882         |
+| Trump's                | 3948         |
+| 😁                      | 3923         |
+| #MAGA                  | 3839         |
+| Bill                   | 3663         |
+| #TrumpTrain            | 3635         |
+| America                | 3492         |
+| #Emmys                 | 3154         |
+| time                   | 2898         |
+| campaign               | 2894         |
+| We                     | 2735         |
+| say                    | 2720         |
+| #MakeAmericaGreatAgain | 2638         |
++------------------------+--------------+

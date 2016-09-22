@@ -1,0 +1,24 @@
+       Followers - 48138 (20 displayed here)
++--------------------+-----------------+
+|         id         |       name      |
++--------------------+-----------------+
+|     489980288      |   saradispigno  |
+|     3321845490     |     MMasesso    |
+|     4892932359     | AgFCzM396dWYN7s |
+|     1049439648     |    AKeller101   |
+| 759039223458590720 |  milenkerchev1  |
+|     380434824      |     raidnat     |
+|     1655744148     |  madge_mcdonald |
+|     3002099649     |  RealSonOfOryx  |
+|     3180931764     | Ashleycerasuolo |
+|     487745202      |  AndrewBayless  |
+| 753676576202436609 |   kimdailybuzz  |
+|      45192612      |   thornedella   |
+|     3036297180     |    916Birdman   |
+|     2954362544     |  Edmond_Estrada |
+|      24190527      |   BunkerBlast   |
+|      52990524      |   IDroppBombs   |
+| 776883346047692800 |     talk_74     |
+|     533644766      |     Oneil1B     |
+|     313366018      |    Granny7Sue   |
++--------------------+-----------------+
